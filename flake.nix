@@ -30,7 +30,7 @@
       flake = false;
     };
 
-    ht_can.url = "github:hytech-racing/ht_can/141";
+    ht_can.url = "github:hytech-racing/ht_can/160";
     ht_can.inputs.nixpkgs.follows = "nixpkgs";
     ht_can.inputs.nix-proto.follows = "nix-proto";
 
