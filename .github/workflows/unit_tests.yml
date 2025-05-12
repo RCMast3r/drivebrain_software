@@ -5,7 +5,7 @@ on:
 
 jobs:
   build:
-    runs-on: [ubuntu-latest, macos-15]
+    runs-on: [ubuntu-latest, macos-latest]
 
     steps:
       - uses: cachix/install-nix-action@v29
